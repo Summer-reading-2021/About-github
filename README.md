@@ -20,4 +20,11 @@ https://youtu.be/E2d91v1Twcc
 R package by Hadley Wickham and Jenny Bryan
 https://r-pkgs.org/
 
+## 4. Download files in Github repository
+
+For the whole repository:
+Click 'Clone or download' (or use Github Desktop)
+
+For single file:
+Go to the file - right click 'raw' on upper right corner - save link as (it works in Chrome)
 
